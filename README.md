@@ -15,6 +15,8 @@ I'm a soon to be Junior Web Developer Graduate
 📫 How to reach me: ada.omoji@gmail.com
 
 📄 Here's my Resume
+
+[![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ada-omoji&show_icons=true)](https://github.com/ada-omoji/github-readme-stats)
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
