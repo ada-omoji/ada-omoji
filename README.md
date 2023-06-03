@@ -16,7 +16,7 @@ I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 
 ⚒️Languages and tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,vscode,github&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,vscode,github&theme=light)](https://skillicons.dev)
 
 ⚡ Fun fact: I can probably find the random comma that is breaking your code... but will take ages to find mine 🙃
 
