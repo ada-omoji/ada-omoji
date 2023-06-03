@@ -18,15 +18,8 @@ I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,vscode,github&theme=light)](https://skillicons.dev)
 
-⚡ Fun fact: I can probably find the random comma that is breaking your code... but will take ages to find mine 🙃
-
+⚡Special skill: Finding the random comma breaking your code... even when I can't find mine 🙃
+<!-- even if I can't find mine, I can crack your code by locating the random comma. -->
 📫 How to reach me: ada.omoji@gmail.com
 
 <!-- 📄 Here's my Resume -->
-
-<!-- [![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ada-omoji&show_icons=true)](https://github.com/ada-omoji/github-readme-stats) -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-
