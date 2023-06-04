@@ -16,7 +16,7 @@ I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 
 ⚒️Languages and tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,vscode,sql,mysql,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,bootstrap,nodejs,vscode,github&theme=light)](https://skillicons.dev)
 
 ⚡Special skill: Finding the random comma breaking your code... even when I can't find mine 🙃
 <!-- even if I can't find mine, I can crack your code by locating the random comma. -->
