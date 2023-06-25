@@ -1,14 +1,16 @@
 ![Header](./github-banner.png)
 
-## Hey, I'm Ada 👋
+# Hey, I'm Ada 👋
 
-I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
+## I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 
 🔍 I'm looking for my first internship or job opportunity in the development field
 
-🔭 I’m presently working on an online platform that connects individuals with various service providers
+🌍  I'm based in Brussels, Belgium
 
-🌱 I'm studying Laravel and React right now.
+🔭 I’m presently working on an online platform that connects individuals with various service providers 
+
+🧠 I'm currently studying Laravel
 
 👯 I’d like to collaborate on interesting projects where I can learn a new language
 
