@@ -18,7 +18,7 @@
 
 ⚡Special skill: Finding the random comma breaking your code... even when I can't find mine 🙃
 
-* ✉️  You can contact me at [ada.omoji@gmail.com](mailto:ada.omoji@gmail.com)
+✉️  You can contact me at [ada.omoji@gmail.com](mailto:ada.omoji@gmail.com)
 
 ### ⚒️Languages and tools: 
 
@@ -40,7 +40,6 @@
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/ada-omoji-2771a413a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
 <a href="https://www.dev.to/ada-omoji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
 
 <!-- 📄 Here's my Resume -->
