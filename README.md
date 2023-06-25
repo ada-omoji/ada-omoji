@@ -18,9 +18,9 @@
 
 ⚡Special skill: Finding the random comma breaking your code... even when I can't find mine 🙃
 
-📫 How to reach me: ada.omoji@gmail.com
+* ✉️  You can contact me at [ada.omoji@gmail.com](mailto:ada.omoji@gmail.com)
 
-⚒️Languages and tools: 
+### ⚒️Languages and tools: 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,bootstrap,nodejs,vscode,github&theme=light)](https://skillicons.dev) -->
 
@@ -35,5 +35,12 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+
+### Socials
+
+<p align="left"> 
+<a href="https://www.linkedin.com/in/ada-omoji-2771a413a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+<a href="https://www.dev.to/ada-omoji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
 
 <!-- 📄 Here's my Resume -->
