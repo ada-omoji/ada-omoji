@@ -1,6 +1,6 @@
 ![Header](./github-banner.png)
 
-### Hey, I'm Ada 👋
+## Hey, I'm Ada 👋
 
 I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 
@@ -16,6 +16,8 @@ I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 
 ⚡Special skill: Finding the random comma breaking your code... even when I can't find mine 🙃
 
+📫 How to reach me: ada.omoji@gmail.com
+
 ⚒️Languages and tools: 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,js,css,laravel,mysql,php,bootstrap,nodejs,vscode,github&theme=light)](https://skillicons.dev) -->
@@ -30,8 +32,6 @@ I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-
-
-📫 How to reach me: ada.omoji@gmail.com
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
 <!-- 📄 Here's my Resume -->
