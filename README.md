@@ -2,7 +2,7 @@
 
 # Hey, I'm Ada 👋
 
-## I'm a soon to be Junior Web Developer Graduate at BeCode Ghent!
+## I'm a Junior Web Developer Graduate from BeCode Ghent!
 
 🔍 I'm looking for my first internship or job opportunity in the development field
 
